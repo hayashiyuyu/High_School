@@ -4,20 +4,20 @@
 
 自然地理包括以下内容：
 
-- [大气的垂直分层](https://github.com/microseyuyu/High_School/blob/Geography/自然地理/key%20point/大气的垂直分层.md)
-- 大气的热力状况
-- 大气环流
-- 气候类型
-- 天气系统
-- 水循环
-- 河流
-- 洋流
-- 地表形态
-- 板块构造
-- 地理环境的整体性和差异性
-- 自然环境对城市的影响
-- 全球气候变暖
-- 自然灾害
+- A[大气的垂直分层](https://github.com/microseyuyu/High_School/blob/Geography/自然地理/key%20point/大气的垂直分层.md)
+- B大气的热力状况
+- C大气环流
+- D气候类型
+- E天气系统
+- F水循环
+- G河流
+- H洋流
+- I地表形态
+- J板块构造
+- K地理环境的整体性和差异性
+- L自然环境对城市的影响
+- M全球气候变暖
+- N自然灾害
 
 ## 说明
 
